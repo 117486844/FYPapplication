@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">LabourFinder</string>
+    <string name="login">Login</string>
+
+
+    <string name="or">OR</string>
+    <string name="registor">Registor</string>
+    <string name="registration">Registration</string>
+    <string name="manger_name">Manger Name</string>
+
+
+
+
+    <string name="passwordLogin">Password</string>
+    <string name="emailLogin">Email</string>
+    <string name="company_name">Company Name</string>
+
+    <string name="company_number">Company Number</string>
+    <string name="see_all_jobs">See All Jobs</string>
+    <string name="post_a_job">Post A Job</string>
+    <string name="btnfab">btnFAB</string>
+
+
+
+    <string name="job_description">Job Description</string>
+    <string name="skill">Skill</string>
+    <string name="location">Location</string>
+    <string name="salary">Salary</string>
+    <string name="add_job_post">Add Job Post</string>
+    <string name="job_title">Job Title</string>
+    <string name="_29_july_2016">29 July 2016</string>
+    <string name="description">Description</string>
+    <string name="skills">Skills</string>
+
+    <string name="_31_july_2018">31 July 2018</string>
+    <string name="job_details_title">Job Title...</string>
+    <string name="_2_august_2018">2 August 2018</string>
+    <string name="job_details_description">Description</string>
+    <string name="job_details_location">Location</string>
+    <string name="job_details_skills">Skills</string>
+    <string name="job_details_salary">Salary</string>
+    <string name="labourfinder">LabourFinder</string>
+    <string name="worker">Worker</string>
+    <string name="company">Company</string>
+    <string name="companyLogo">TODO</string>
+    <string name="tvHelloWorld">TextView</string>
+    <string name="worker_registration">Worker Registration</string>
+    <string name="name">Name</string>
+    <string name="experience">Experience</string>
+    <string name="address">Address</string>
+    <string name="register">Register</string>
+
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="user_profile">User Profile</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="todo">TODO</string>
+
+
+</resources>

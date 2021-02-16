@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636549179971",
+    "firebase_url": "https://labourfinder-117486844.firebaseio.com",
+    "project_id": "labourfinder-117486844",
+    "storage_bucket": "labourfinder-117486844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636549179971:android:ed15e9748cc32e8b8e02f6",
+        "android_client_info": {
+          "package_name": "com.samgoggin.labourfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636549179971-jq4bm5ofukqcsqsrj43li5jqicd0c88p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samgoggin.labourfinder",
+            "certificate_hash": "e59487792c3b78f16811ec9300f1ad42de23113a"
+          }
+        },
+        {
+          "client_id": "636549179971-581sohh7c05389h39lckgc16io9ot5re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB9m0kIMg5V2rSNzRajiwEIsi4O_oxuNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636549179971-581sohh7c05389h39lckgc16io9ot5re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
